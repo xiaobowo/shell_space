@@ -5,4 +5,4 @@ git is free software distributed under the GPL.
 creatng a new breath is easy.
 creating a new branch is quick and simple and easy.
 add merge test.
-test remot.
+test remot and merge.
