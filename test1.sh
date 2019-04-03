@@ -1,7 +1,9 @@
 #!/bin/bash
 #bash for command
 
-for test in Alabama Alaska Arizona Arkansas California Colorado
-do 
-	echo The next state is $test
+factorial=1
+for(( number=1;number<=$1;number++ ))
+do
+	factorial=$[ $factorial * $number ]
 done
+echo The factorial of $1 is $factorial
