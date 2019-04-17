@@ -1,0 +1,29 @@
+总用量 96
+-rwxr-xr-x 1 pi pi 434 4月  16 22:39 addem
+-rwxr-xr-x 1 pi pi 390 4月  16 22:39 badtest2.sh
+-rw-r--r-- 1 pi pi   9 4月  16 22:39 LICENSE.txt
+lrwxrwxrwx 1 pi pi   8 4月  16 22:39 multem -> test6.sh
+-rw-r--r-- 1 pi pi 251 4月  16 22:39 readme.txt
+-rw-r--r-- 1 pi pi  78 4月  16 22:39 states
+-rwxr-xr-x 1 pi pi 339 4月  16 22:39 test10.sh
+-rwxr-xr-x 1 pi pi 373 4月  16 22:39 test11.sh
+-rwxr-xr-x 1 pi pi 372 4月  16 22:39 test13.sh
+-rwxr-xr-x 1 pi pi 385 4月  16 22:39 test14.sh
+-rwxr-xr-x 1 pi pi 453 4月  16 22:39 test15.sh
+-rwxr-xr-x 1 pi pi 570 4月  16 22:39 test16.sh
+-rwxr-xr-x 1 pi pi 231 4月  16 22:39 test1b.sh
+-rwxr-xr-x 1 pi pi 165 4月  16 22:39 test1.sh
+-rw-r--r-- 1 pi pi   0 4月  17 22:24 test2
+-rwxr-xr-x 1 pi pi 402 4月  16 22:39 test25.sh
+-rwxr-xr-x 1 pi pi 455 4月  16 22:39 test26.sh
+-rwxr-xr-x 1 pi pi 386 4月  16 22:39 test2.sh
+-rwxr-xr-x 1 pi pi 408 4月  16 22:39 test4.sh
+-rwxr-xr-x 1 pi pi 327 4月  16 22:39 test5b.sh
+-rwxr-xr-x 1 pi pi 349 4月  16 22:39 test5.sh
+-rwxr-xr-x 1 pi pi 434 4月  16 22:39 test6.sh
+-rwxr-xr-x 1 pi pi 311 4月  16 22:39 test8.sh
+-rwxr-xr-x 1 pi pi 395 4月  16 22:39 test9.sh
+-rw-r--r-- 1 pi pi  73 4月  17 22:20 testfile
+-rw-r--r-- 1 pi pi   5 4月  16 22:39 test.txt
+pi       tty7         2019-04-16 22:34 (:0)
+pi       pts/0        2019-04-16 22:34 (10.0.0.5)

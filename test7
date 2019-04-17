@@ -1,0 +1,4 @@
+ls: 无法访问'test': 没有那个文件或目录
+ls: 无法访问'badtest': 没有那个文件或目录
+-rw-r--r-- 1 pi pi 1349 4月  17 22:24 test2
+-rw-r--r-- 1 pi pi    0 4月  17 22:25 test3
